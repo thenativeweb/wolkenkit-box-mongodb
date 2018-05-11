@@ -18,12 +18,18 @@
     {
       "name": "Christian Zosel",
       "email": "chrzosel@gmail.com"
+    },
+    {
+      "name": "Michael Scherer",
+      "email": "mail@michael-scherer.net"
     }
   ],
   "dependencies": {},
   "devDependencies": {
-    "roboter": "0.15.2",
-    "roboter-server": "0.15.2"
+    "roboter": "1.0.4"
+  },
+  "scripts": {
+    "build": "docker build -t thenativeweb/wolkenkit-mongodb ."
   },
   "repository": {
     "type": "git",
