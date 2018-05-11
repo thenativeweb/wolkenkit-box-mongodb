@@ -1,5 +1,5 @@
 FROM mongo:3.5.6
-MAINTAINER the native web <hello@thenativeweb.io>
+LABEL maintainer="the native web <hello@thenativeweb.io>"
 
 ADD scripts /scripts
 
