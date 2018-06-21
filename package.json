@@ -1,6 +1,6 @@
 {
   "name": "wolkenkit-box-mongodb",
-  "version": "1.2.0",
+  "version": "2.0.0",
   "description": "wolkenkit-box-mongodb is a MongoDB container for wolkenkit.",
   "contributors": [
     {
