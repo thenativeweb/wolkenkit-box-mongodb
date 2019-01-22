@@ -26,7 +26,7 @@
   ],
   "dependencies": {},
   "devDependencies": {
-    "roboter": "1.0.4"
+    "roboter": "3.0.4"
   },
   "scripts": {
     "build": "docker build -t thenativeweb/wolkenkit-mongodb ."
